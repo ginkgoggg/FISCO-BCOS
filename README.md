@@ -5,3 +5,5 @@
 - [贡献2](contributions/contribution2)：日志链上管理智能合约
 
 - [贡献3](contributions/contribution3)：通过Java SDK调用智能合约完成日志行为信息上链
+
+- [贡献4](contributions/contribution4)：日志行为共指分析
